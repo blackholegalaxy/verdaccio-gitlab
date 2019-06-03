@@ -47,11 +47,11 @@
     "node": ">=8"
   },
   "dependencies": {
-    "gitlab": "3.5.1",
-    "global-tunnel-ng": "2.5.3",
-    "http-errors": "1.6.3",
+    "gitlab": "6.0.0",
+    "global-tunnel-ng": "2.7.1",
+    "http-errors": "1.7.2",
     "node-cache": "4.2.0",
-    "verdaccio": "3.8.6"
+    "verdaccio": "4.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "7.0.0",
